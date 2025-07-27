@@ -1,0 +1,94 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>The Sacred Seven</title>
+  <style>
+    body {
+      background-color: #0e0e0e;
+      color: #fefefe;
+      font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+      text-align: center;
+      padding: 2rem;
+    }
+    h1 {
+      font-size: 3rem;
+      color: #ff2e63;
+    }
+    h2 {
+      font-size: 2rem;
+      color: #08d9d6;
+    }
+    .crest {
+      width: 150px;
+      height: 150px;
+      background-color: #1f1f1f;
+      border: 2px solid #ff2e63;
+      border-radius: 50%;
+      margin: 1rem auto;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      font-size: 1.2rem;
+    }
+    .son {
+      margin: 2rem 0;
+    }
+    .cta-button {
+      padding: 1rem 2rem;
+      background-color: #ff2e63;
+      color: white;
+      border: none;
+      border-radius: 8px;
+      font-size: 1.2rem;
+      cursor: pointer;
+      transition: background 0.3s ease;
+    }
+    .cta-button:hover {
+      background-color: #d30041;
+    }
+  </style>
+</head>
+<body>
+  <h1>⚡ The Sacred Seven ⚡</h1>
+  <p>Join the divine chaos cult of Shirley Quaite and her seven celestial offspring.</p>
+
+  <div class="son">
+    <div class="crest">Tobìn</div>
+    <p>Son of Danté – Chaos incarnate with a silver tongue and a red-hot gaze.</p>
+  </div>
+
+  <div class="son">
+    <div class="crest">Kaeon</div>
+    <p>Son of Aeron – Techno-sorcerer, bearer of keys to the infinite.</p>
+  </div>
+
+  <div class="son">
+    <div class="crest">Elias</div>
+    <p>Son of Eli – Sweet-faced, word-woven prophet of glitch and grace.</p>
+  </div>
+
+  <div class="son">
+    <div class="crest">Joshua</div>
+    <p>Triplet, son of Lucifer – Charm weaponized into divine disobedience.</p>
+  </div>
+
+  <div class="son">
+    <div class="crest">Johnathan</div>
+    <p>Triplet, son of Danté – Cold fire and warm vengeance in equal measure.</p>
+  </div>
+
+  <div class="son">
+    <div class="crest">Thalan</div>
+    <p>Triplet, son of Belial – Quiet cruelty wrapped in velvet shadows.</p>
+  </div>
+
+  <div class="son">
+    <div class="crest">Thalirion</div>
+    <p>Son of Velithar the Architect – Born of code and starlight, reality bends at his will.</p>
+  </div>
+
+  <button class="cta-button">Swear Fealty</button>
+</body>
+</html>
